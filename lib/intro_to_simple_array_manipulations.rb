@@ -21,7 +21,3 @@ end
 def using_shift(array3)
   array.shift(2)
 end
-
-def using_concat(test, test1)
-  test.concat(test1)
-end
